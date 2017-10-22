@@ -1,0 +1,23 @@
+{
+    "id" : 1,
+    "name" : "Skype call parse json",
+    "description" : "huong dan parse json",
+    "members" : [
+        {
+            "id": 0,
+                 "name" : "Thành"
+        },
+                 {
+                 "id": 1,
+                 "name": "Viet"
+                 },
+                 {
+                 "id": 3,
+                 "name": "Nhanh"
+                 },
+                 {
+                 "id": 4,
+                 "name": "Trang"
+                 }
+    ]
+}
